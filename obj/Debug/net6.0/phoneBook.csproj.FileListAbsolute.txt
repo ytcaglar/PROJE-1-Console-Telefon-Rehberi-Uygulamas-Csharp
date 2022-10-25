@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\bin\Debug\net6.0\phoneBook.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\bin\Debug\net6.0\phoneBook.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\bin\Debug\net6.0\phoneBook.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\bin\Debug\net6.0\phoneBook.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\bin\Debug\net6.0\phoneBook.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\refint\phoneBook.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\phoneBook.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\phoneBook\obj\Debug\net6.0\ref\phoneBook.dll
